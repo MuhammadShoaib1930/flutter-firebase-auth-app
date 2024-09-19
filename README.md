@@ -34,4 +34,4 @@ Follow these steps to get the app up and running on your local machine:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/flutter-firebase-authentication-app.git
+   git clone https://github.com/MuhammadShoaib1930/flutter-firebase-auth-app.git
